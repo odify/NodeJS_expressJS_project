@@ -1,0 +1,10 @@
+body {
+    background: #212529;
+    color: #fff;
+    text-align: center;
+}
+
+.WelcomeView {
+    background: url("https://picsum.com/200/200") left bottom;
+    background-size: cover;
+}
